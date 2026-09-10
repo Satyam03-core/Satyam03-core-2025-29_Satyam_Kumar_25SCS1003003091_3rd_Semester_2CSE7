@@ -76,10 +76,9 @@ CIVIK can be extended to support **edge AI devices, advanced computer vision, lo
 
 ---
 
-### 🏆 Hackathon Project
+
 
 **Theme:** Democratising AI Resources
 
 **Project:** CIVIK – Offline AI Civic Assistant
 
-Built with ❤️ to make AI **accessible, multimodal, and available beyond connectivity limitations**.
